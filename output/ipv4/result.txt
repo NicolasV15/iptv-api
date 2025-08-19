@@ -1,31 +1,20 @@
 🕘️更新时间,#genre#
-2025-08-19 06:24:31,http://223.109.75.19:8000/057754/index.m3u8
+2025-08-19 18:28:39,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 
 📺央视频道,#genre#
-CCTV-1,http://223.109.75.19:8000/057754/index.m3u8
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
-CCTV-3,http://223.109.75.19:8000/830965/index.m3u8
+CCTV-3,http://125.42.151.98:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://223.109.75.19:8000/143097/index.m3u8
+CCTV-5,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5,http://223.109.75.19:8000/930480/index.m3u8
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
-CCTV-5+,http://223.109.75.19:8000/470540/index.m3u8
-CCTV-6,http://223.109.75.19:8000/520737/index.m3u8
 CCTV-7,http://php.cqshushu.ggff.net/jzb.php?id=cctv7&公众号【医工学习日志】
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-7,http://223.109.75.19:8000/649185/index.m3u8
 CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
-CCTV-8,http://223.109.75.19:8000/235836/index.m3u8
 CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
 CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】
-CCTV-10,http://223.109.75.19:8000/502378/index.m3u8
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
-CCTV-11,http://223.109.75.19:8000/554982/index.m3u8
 CCTV-12,http://php.cqshushu.ggff.net/jzb.php?id=cctv12&公众号【医工学习日志】
-CCTV-12,http://223.109.75.19:8000/422642/index.m3u8
-CCTV-14,http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8
 CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
-CCTV-17,http://223.109.75.19:8000/299438/index.m3u8
